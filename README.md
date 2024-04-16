@@ -28,3 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajanpdl&show_icons=true&locale=en" alt="sajanpdl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajanpdl&" alt="sajanpdl" /></p>
+
+<p align="left">Hello World!!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/SajanPdl/SajanPdl/output/snake.svg" alt="Snake animation" />
+
+###
