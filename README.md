@@ -19,7 +19,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=sajanpdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SajanPdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -53,17 +53,13 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajanpdl&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanpdl&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanpdl&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajanPdl&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajanPdl&show_icons=true&theme=merko&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanPdl&theme=merko" alt="GitHub Streak" />
+</div>
 
 ---
 
