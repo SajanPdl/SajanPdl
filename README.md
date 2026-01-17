@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/banner.png" alt="Sajan Poudel Banner" />
+  <img src="media/banner.png" alt="Sajan Poudel Banner" width="100%" />
 
   # Hi 👋, I'm Sajan Poudel
   ### 🚀 Passionate Frontend Developer from Nepal
@@ -19,7 +19,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=SajanPdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sajanpdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -37,33 +37,37 @@
 
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 #### 🎨 Design & Workflow
 <p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajanPdl&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajanPdl&show_icons=true&theme=merko&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanPdl&theme=merko" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajanpdl&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanpdl&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanpdl&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SajanPdl/SajanPdl/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SajanPdl/SajanPdl/output/snake.svg?sanitize=true" alt="Snake animation" />
 </div>
