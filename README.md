@@ -3,7 +3,7 @@
   <h3>🚀 Passionate Frontend Developer from Nepal</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/sajanj-poudel" target="blank">
+    <a href="https://linkedin.com/in/sajan-poudel" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://fb.com/sajanpoudel170" target="blank">
