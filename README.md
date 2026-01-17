@@ -1,6 +1,6 @@
 <div align="center">
-  # Hi 👋, I'm Sajan Poudel
-  ### 🚀 Passionate Frontend Developer from Nepal
+  <h1>Hi 👋, I'm Sajan Poudel</h1>
+  <h3>🚀 Passionate Frontend Developer from Nepal</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/sajanj-poudel" target="blank">
@@ -52,11 +52,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajanPdl&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajanPdl&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajanPdl&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajanPdl&show_icons=true&theme=vue-dark&layout=compact" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanPdl&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanPdl&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
 ---
