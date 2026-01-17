@@ -17,7 +17,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=SajanPdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sajanpdl&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -52,11 +52,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajanPdl&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajanpdl&show_icons=true&theme=dark" alt="Sajan's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SajanPdl&show_icons=true&theme=vue-dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanpdl&show_icons=true&theme=dark&layout=compact" alt="Sajan's Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanPdl&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanpdl&theme=dark" alt="Sajan's GitHub Streak" />
 </div>
 
 ---
