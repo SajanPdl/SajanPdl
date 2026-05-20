@@ -12,7 +12,7 @@
     <a href="https://instagram.com/sajanpoudel_" target="blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:sajanpaudel012@gmail.com">
+    <a href="mailto:sajanpoudel970@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on freelance projects, focusing on building modern web experiences.
 - 💬 Ask me about **HTML, CSS, and JavaScript**.
-- 📫 Reach out to me at: **sajanpaudel012@gmail.com**
+- 📫 Reach out to me at: **sajanpoudel970@gmail.com**
 - ⚡ Fun fact: **I am quick to learn and passionate about clean code.**
 
 ---
